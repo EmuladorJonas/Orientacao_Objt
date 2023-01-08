@@ -7,8 +7,8 @@ Os arquivo com pré-fixo "Program" são atualizações de orientação a objetos
 
 <h2>Orientacao2</h2>
 EXERCÍCIO: Fazer um programa para ler os dados de um produto em estoque (nome, preço e
-quantidade no estoque). Em seguida:
+quantidade no estoque). Em seguida:<br>
 • Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no
-estoque)
-• Realizar uma entrada no estoque e mostrar novamente os dados do produto
-• Realizar uma saída no estoque e mostrar novamente os dados do produto
+estoque)<br>
+• Realizar uma entrada no estoque e mostrar novamente os dados do produto<br>
+• Realizar uma saída no estoque e mostrar novamente os dados do produto<br>
