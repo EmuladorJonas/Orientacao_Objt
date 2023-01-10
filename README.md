@@ -12,3 +12,6 @@ quantidade no estoque). Em seguida:<br>
 estoque)<br>
 • Realizar uma entrada no estoque e mostrar novamente os dados do produto<br>
 • Realizar uma saída no estoque e mostrar novamente os dados do produto<br>
+
+<h2>Construtores</h2>
+Fazendo uso de operações especias na classe para executar no momento da instanciação do objeto. Nesse caso, usaremos para já iniciarmos com valores validos de atributos nos mesmos exescícios anteriores.
