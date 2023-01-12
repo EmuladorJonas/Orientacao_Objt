@@ -15,3 +15,6 @@ estoque)<br>
 
 <h2>Construtores</h2>
 Fazendo uso de operações especias na classe para executar no momento da instanciação do objeto. Nesse caso, usaremos para já iniciarmos com valores validos de atributos nos mesmos exescícios anteriores.
+
+<h2>Encapsulamento</h2>
+É um princípio que consiste em esconder detalhes de implementação de uma classe, expondo apenas operações seguras e que mantenham os objetos em um estado consistente. A regra geral básica para sua implementeção é a de que um objeto não deve expor nenhum atributo. para isso ultilizamos o modificador de acesso 'private'.
